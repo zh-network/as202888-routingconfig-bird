@@ -1,0 +1,2 @@
+# as202888-routingconfig-bird
+ZHNETWORK BIRD CONFIG (AS202888)
