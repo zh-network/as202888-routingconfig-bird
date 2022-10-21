@@ -1,6 +1,6 @@
-# as202888-routingconfig-bird
-ZHNETWORK BIRD CONFIG (AS202888)
-
+# ZHNETWORK BIRD CONFIG (AS202888)
+<img src="zhnetremovebg-cut.png" />
+  
 ## ZH NET (AS202888) BGP Communities [FOR PUBLIC SERVICE]
 #### Community list for ZHNET customers
 6939  = Hurricane Electric  
