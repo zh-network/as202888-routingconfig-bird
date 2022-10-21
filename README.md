@@ -3,10 +3,10 @@ ZHNETWORK BIRD CONFIG (AS202888)
 
 ## ZH NET (AS202888) BGP Communities [FOR PUBLIC SERVICE]
 #### Community list for ZHNET customers
-6939  = Hurricane Electric 
-3257  = GTT 
-40676 = PSYCHZ.NET
-58057 = Securebit.ch
+6939  = Hurricane Electric  
+3257  = GTT  
+40676 = PSYCHZ.NET  
+58057 = Securebit.ch  
 #### ZHNET-LAX (PSYCHZ.NET UPSTREAM)
 <strong>No advertise communities</strong>
 666:x where is the ASN of the peer your route will not be advertised to at all 
