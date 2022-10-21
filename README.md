@@ -1,4 +1,4 @@
-# ZHNETWORK BIRD CONFIG (AS202888)
+# ZHNETWORK BIRD CONFIG
 <img src="zhnetremovebg-cut.png" />
   
 ## ZH NET (AS202888) BGP Communities [FOR PUBLIC SERVICE]
