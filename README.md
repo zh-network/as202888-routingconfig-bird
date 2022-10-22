@@ -18,7 +18,7 @@
 202888, 1, 65002 From Peers  
 202888, 1, 65003 From Upstreams  
   
-#### 202888, 2 ZHNET-FMT (Skywolf UPSTREAM)  
+#### 202888, 2 ZHNET-LAX (-FMT UPSTREAM)  
 202888, 2, 65001 From Downstreams  
 202888, 2, 65002 From Peers  
 202888, 2, 65003 From Upstreams  
