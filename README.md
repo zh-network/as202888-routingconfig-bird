@@ -20,7 +20,7 @@ downstream: upstream: bgp_local_pref = 900;
   
 #### IBGP IP CIDR & Range 
 LAX-BGP-Service 174.136.238.114 <-> LAX Core 174.136.238.1  
-LAX-BGP-Service <-> DE FRA = 10.10.19.1 - 10.10.19.2 (10.10.19.1/30) + 2a12:3fc2:aabb:1122:3344:5566:1111::1/128 - 2a12:3fc2:aabb:1122:3344:5566:1111::2/128 (2a12:3fc2:aabb:1122:3344:5566:1111::/64) . 
+LAX-BGP-Service <-> DE FRA = 10.10.19.1 - 10.10.19.2 (10.10.19.1/30) + 2a12:3fc2:aabb:1122:3344:5566::1/128 - 2a12:3fc2:aabb:1122:3344:5566::2/128 (2a12:3fc2:aabb:1122:3344:5566::/64) . 
   
 #### 202888, 1 ZHNET-LAX (PSYCHZ.NET UPSTREAM)  
 202888, 1, 65001 From Downstreams  
