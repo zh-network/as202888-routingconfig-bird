@@ -12,12 +12,12 @@
 666:x where is the ASN of the peer your route will not be advertised to at all   
 
 ## ZH NET (AS202888) BGP Communities [FOR INTERAL SERVICE]  
-
+  
 #### BGP Pref
-upstream: bgp_local_pref = 300;
-peer: bgp_local_pref = 500;
-downstream: upstream: bgp_local_pref = 900;
-
+upstream: bgp_local_pref = 300;  
+peer: bgp_local_pref = 500;  
+downstream: upstream: bgp_local_pref = 900;  
+  
 #### 202888, 1 ZHNET-LAX (PSYCHZ.NET UPSTREAM)  
 202888, 1, 65001 From Downstreams  
 202888, 1, 65002 From Peers  
