@@ -27,3 +27,11 @@ PersistentKeepalive =
 ```
 wg-quick up xxx
 ```
+### kernel :RTNETLINK answers: Operation not supported 
+```
+modprobe wireguard
+```
+4.19.0.-22  
+```
+apt install linux-headers-4.19.0-22-amd 
+```
