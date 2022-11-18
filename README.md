@@ -18,9 +18,13 @@ upstream: bgp_local_pref = 300;
 peer: bgp_local_pref = 500;  
 downstream: upstream: bgp_local_pref = 900;  
   
+#### OSPF Node ID
+LAX-BGP-Service = 1111  
+DE-FRA = 2222 
+
 #### IBGP IP CIDR & Range 
 LAX-BGP-Service 174.136.238.114 <-> LAX Core 174.136.238.1  
-LAX-BGP-Service <-> DE FRA = 10.10.19.1 - 10.10.19.2 (10.10.19.0/30) + 2a12:3fc2:aabb:1122:3344:5566::1/128 - 2a12:3fc2:aabb:1122:3344:5566::2/128 (2a12:3fc2:aabb:1122:3344:5566::/117) . 
+LAX-BGP-Service <-> DE FRA = 10.10.19.1 - 10.10.19.2 (10.10.19.0/30) + 2a12:3fc2:5555:4444:3333:2222::1/128 - 2a12:3fc2:5555:4444:3333:2222::2/128 (OSPF+ANYCAST)
   
 #### 202888, 1 ZHNET-LAX (PSYCHZ.NET UPSTREAM)  
 202888, 1, 65001 From Downstreams  
