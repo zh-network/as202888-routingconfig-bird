@@ -26,6 +26,12 @@ DE-FRA = 2222
 LAX-BGP-Service 174.136.238.114 <-> LAX Core 174.136.238.1  
 LAX-BGP-Service <-> DE FRA = 10.10.19.1 - 10.10.19.2 (10.10.19.0/30) + 2a12:3fc2:5555:4444:3333:2222::1/128 - 2a12:3fc2:5555:4444:3333:2222::2/128 (OSPF+ANYCAST)
   
+
+#### 202888, 6 ZHNET-CN Beijing - ZH NETWORK Beijing CN1 Facilities    
+202888, 600, 65001 From Downstreams  
+202888, 600, 65002 From Peers  
+202888, 600, 65003 From Upstreams  
+
 #### 202888, 1 ZHNET-LAX (PSYCHZ.NET UPSTREAM)  
 202888, 1, 65001 From Downstreams  
 202888, 1, 65002 From Peers  
@@ -51,8 +57,18 @@ LAX-BGP-Service <-> DE FRA = 10.10.19.1 - 10.10.19.2 (10.10.19.0/30) + 2a12:3fc2
 202888, 5, 65002 From Peers  
 202888, 5, 65003 From Upstreams  
 
-#### 202888, 6 ZHNET-CN (China UPSTREAM)    
+#### 202888, 6 ZHNET-CN Wuh - Tanuki-IX    
 202888, 6, 65001 From Downstreams  
 202888, 6, 65002 From Peers  
 202888, 6, 65003 From Upstreams  
+
+#### 202888, 7 ZHNET-CN Henan - EO-IX HENAN    
+202888, 7, 65001 From Downstreams  
+202888, 7, 65002 From Peers  
+202888, 7, 65003 From Upstreams  
   
+#### 202888, 8 ZHNET-CN GuangZhou    
+202888, 8, 65001 From Downstreams  
+202888, 8, 65002 From Peers  
+202888, 8, 65003 From Upstreams  
+
