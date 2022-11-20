@@ -50,4 +50,9 @@ LAX-BGP-Service <-> DE FRA = 10.10.19.1 - 10.10.19.2 (10.10.19.0/30) + 2a12:3fc2
 202888, 5, 65001 From Downstreams  
 202888, 5, 65002 From Peers  
 202888, 5, 65003 From Upstreams  
+
+#### 202888, 6 ZHNET-CN (China UPSTREAM)    
+202888, 6, 65001 From Downstreams  
+202888, 6, 65002 From Peers  
+202888, 6, 65003 From Upstreams  
   
