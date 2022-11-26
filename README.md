@@ -29,7 +29,7 @@ LAX-BGP-Service <-> DE FRA = 10.10.19.1 - 10.10.19.2 (10.10.19.0/30) + 2a12:3fc2
 Tanuki IX <-> Beijing CN1  10.19.1.1 10.19.1.2  
 Tanuki IX <-> Beijing CN1  fddd:2233:3344:4455::2 fddd:2233:3344:4455::1001  
 EOIX Henan <-> Beijing CN1 10.19.2.1 10.19.2.2
-
+EOIX Henan <-> Beijing CN1  fddd:3344:4455:5566::2 fddd:3344:4455:5566::1001 
 
   
 
