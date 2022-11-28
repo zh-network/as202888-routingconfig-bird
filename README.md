@@ -78,3 +78,8 @@ EOIX Henan <-> Beijing CN1  fddd:3344:4455:5566::2 fddd:3344:4455:5566::1001
 202888, 8, 65002 From Peers  
 202888, 8, 65003 From Upstreams  
 
+#### 202888, 9 ZHNET-CN Seattle    
+202888, 9, 65001 From Downstreams  
+202888, 9, 65002 From Peers  
+202888, 9, 65003 From Upstreams  
+
