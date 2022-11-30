@@ -42,6 +42,7 @@ EOIX Henan <-> Beijing CN1  fddd:3344:4455:5566::2 fddd:3344:4455:5566::1001
 202888, 1, 65001 From Downstreams  
 202888, 1, 65002 From Peers  
 202888, 1, 65003 From Upstreams  
+202888, 1, 65004 From iBGP  
   
 #### 202888, 2 ZHNET-LAX (-FMT UPSTREAM)  
 202888, 2, 65001 From Downstreams  
@@ -52,6 +53,7 @@ EOIX Henan <-> Beijing CN1  fddd:3344:4455:5566::2 fddd:3344:4455:5566::1001
 202888, 3, 65001 From Downstreams  
 202888, 3, 65002 From Peers  
 202888, 3, 65003 From Upstreams  
+202888, 3, 65004 From iBGP  
   
 #### 202888, 4 ZHNET-HK (HongKong UPSTREAM) Pending - - -   
 202888, 4, 65001 From Downstreams  
