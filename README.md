@@ -53,7 +53,7 @@ EOIX Henan <-> Beijing CN1  fddd:3344:4455:5566::2 fddd:3344:4455:5566::1001
 202888, 3, 65002 From Peers  
 202888, 3, 65003 From Upstreams  
   
-#### 202888, 4 ZHNET-HK (HongKong UPSTREAM) Pending - - -   
+#### 202888, 4 ZHNET-HK (HongKong UPSTREAM)  
 202888, 4, 65001 From Downstreams  
 202888, 4, 65002 From Peers  
 202888, 4, 65003 From Upstreams  
