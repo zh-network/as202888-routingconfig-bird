@@ -83,3 +83,8 @@ EOIX Henan <-> Beijing CN1  fddd:3344:4455:5566::2 fddd:3344:4455:5566::1001
 202888, 9, 65002 From Peers  
 202888, 9, 65003 From Upstreams  
 
+#### 202888, 10 ZHNET-TYO Tokyo, Japan    
+202888, 10, 65001 From Downstreams  
+202888, 10, 65002 From Peers  
+202888, 10, 65003 From Upstreams  
+
