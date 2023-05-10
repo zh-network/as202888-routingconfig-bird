@@ -48,7 +48,7 @@ EOIX Henan <-> Beijing CN1  fddd:3344:4455:5566::2 fddd:3344:4455:5566::1001
 202888, 2, 65002 From Peers  
 202888, 2, 65003 From Upstreams  
 
-#### 202888, 3 ZHNET-DE (DE-FRA UPSTREAM)  
+#### 202888, 3 ZHNET-AMS (NL-AMS UPSTREAM)  
 202888, 3, 65001 From Downstreams  
 202888, 3, 65002 From Peers  
 202888, 3, 65003 From Upstreams  
@@ -87,4 +87,9 @@ EOIX Henan <-> Beijing CN1  fddd:3344:4455:5566::2 fddd:3344:4455:5566::1001
 202888, 10, 65001 From Downstreams  
 202888, 10, 65002 From Peers  
 202888, 10, 65003 From Upstreams  
+
+#### 202888, 11 ZHNET-STO Stockholm, Sweden    
+202888, 11, 65001 From Downstreams  
+202888, 11, 65002 From Peers  
+202888, 11, 65003 From Upstreams  
 
