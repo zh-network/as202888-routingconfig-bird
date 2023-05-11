@@ -13,7 +13,7 @@ chmod 777 -R /etc/wireguard
 [Interface]  
 PrivateKey =  
 Address =  x.x.x.x/24, xxxx:xxxx::x/64
-PostUp = /spin/ip addr add dev %i x.x.x.x/32 peer x.x.x.x/32
+PostUp = /sbin/ip addr add dev %i x.x.x.x/32 peer x.x.x.x/32
 ListenPort =  
 table = off
 mtu = 1300
