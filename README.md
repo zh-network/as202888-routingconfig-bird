@@ -93,3 +93,9 @@ EOIX Henan <-> Beijing CN1  fddd:3344:4455:5566::2 fddd:3344:4455:5566::1001
 202888, 11, 65002 From Peers  
 202888, 11, 65003 From Upstreams  
 
+
+#### 202888, 11 ZHNET-CHIX CH, Zurich    
+202888, 12, 65001 From Downstreams  
+202888, 12, 65002 From Peers  
+202888, 12, 65003 From Upstreams  
+
