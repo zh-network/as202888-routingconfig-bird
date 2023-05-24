@@ -104,3 +104,8 @@ EOIX Henan <-> Beijing CN1  fddd:3344:4455:5566::2 fddd:3344:4455:5566::1001
 202888, 13, 65001 From Downstreams  
 202888, 13, 65002 From Peers  
 202888, 13, 65003 From Upstreams  
+
+#### 202888, 13 ZHNET-UK-BIZ London, UK    
+202888, 14, 65001 From Downstreams  
+202888, 14, 65002 From Peers  
+202888, 14, 65003 From Upstreams  
